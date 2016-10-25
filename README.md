@@ -1,2 +1,3 @@
 # LucTest
-This is  a test to start with
+Starting to work with GitHub. 
+first amendment
